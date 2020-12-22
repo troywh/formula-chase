@@ -1,0 +1,35 @@
+html {
+  background-color: #ccffff;
+}
+
+body,
+p {
+  margin: 10px;
+  text-align: center;
+}
+
+p {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Avenir;
+}
+
+h1 {
+  background: linear-gradient(to bottom right, #99ff99 0%, #66ffff 100%);
+  font-size: 40px;
+  font-weight: bold;
+  color: seagreen;
+  font-family: Luminari, Fantasy;
+}
+
+button {
+  font-size: 30px;
+  background: linear-gradient(to bottom right, #00ffcc 12%, #cc66ff 100%);
+  color: seagreen;
+  font-family: Serif;
+}
+
+footer {
+  font-style: italic;
+  font-size: 10px;
+}
